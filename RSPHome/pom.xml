@@ -3,8 +3,6 @@
   <groupId>tn.mabillon</groupId>
   <artifactId>RSPHome</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <modules>
-  	<module>RSPPersistence</module>
-  </modules>
+  <packaging>jar</packaging>
+  
 </project>
